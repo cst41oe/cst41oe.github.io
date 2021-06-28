@@ -1,0 +1,20 @@
+Package: com.lg.tsum
+Architecture: iphoneos-arm
+Version: !=
+Section: Tweaks
+Maintainer: 41oe
+Installed-Size: 308
+Depends: mobilesubstrate
+Filename: ./debs/ios41oett.deb
+Size: 129260
+MD5sum: 13350d0a7c9a5bb14f806d468892bba1
+SHA1: eb44a2484e1a3026c5a53ecd7b8e483232a0b9ef
+SHA256: ac9c5ce070fee53ee916765be13b848bcc603bcafcebdf05f135bdec81d625d6
+SHA512: ff24e774799cc8612192a3572d2287f3c45de35ef0b08fe25e4a6ea388c0ad7ab05cf35fed89ac7ee2172d29289527aaadf2c15756b3a2007c573ec5bd5db2be
+Homepage:
+Description:
+Name: TsumTsum
+Author: 41oe
+Depiction: https://41oe.github.io/x41oe.github.io/
+Icon: file:///Library/PreferenceBundles/tsum.bundle/icon@2x.png
+
