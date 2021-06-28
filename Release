@@ -1,0 +1,8 @@
+Origin: 41oe
+Label: 41oe
+Suite: stable
+Version: 
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: 41oe-repo
