@@ -18,3 +18,43 @@ Author: 41oe
 Depiction: https://41oe.github.io/x41oe.github.io/
 Icon: file:///Library/PreferenceBundles/tsum.bundle/icon@2x.png
 
+Package: com.lg.mixi
+Architecture: iphoneos-arm
+Version: 1
+Section: Tweaks
+Maintainer: 41oe
+Installed-Size: 324
+Depends: mobilesubstrate
+Filename: ./debs/mixi.deb
+Size: 130306
+MD5sum: 55f69c9c2816e2975f1a98a2f2c48d81
+SHA1: 002a5c26e75dcd6820194ee5d88f6e0f780a9c35
+SHA256: a0dcb80ec58361da7041bacb02d484d86c427c4ceedaf062185b0ac1450f8835
+SHA512: 09afdd885d1433f631e8a68f093191313df951605fc18f03fc3d0b086a5ef8fde31c70da5d408919a8461d5f2b6c17d43002f54becfbd311cd9e71d67bc0dc5f
+Homepage:
+Description:
+Name: jp.co.mixi;
+Author:
+Depiction:
+Icon: file:///Library/PreferenceBundles/mixi.bundle/icon@2x.png
+
+Package: com.lg.pad
+Architecture: iphoneos-arm
+Version: 1
+Section: Tweaks
+Maintainer: 41oe
+Installed-Size: 324
+Depends: mobilesubstrate
+Filename: ./debs/pad.deb
+Size: 129802
+MD5sum: a6104ec34ea9d80266d446921ddc0abe
+SHA1: c484d54703fbb8f324b6d23867362db25463f8d4
+SHA256: cb4590c1754860f6146512778fb8d6843b20433c60b1ed64fabd29a4c5c67854
+SHA512: da76904d440f29c097aac870d8c5b414ce1039162076a623e48afd1edf4e2038f9ac82af84850504d2f814d3ef3488030956bcd9ffabdd078319bea2ddd5709d
+Homepage:
+Description:
+Name: gunho.pad;
+Author:
+Depiction:
+Icon: file:///Library/PreferenceBundles/pad.bundle/icon@2x.png
+
