@@ -20,17 +20,17 @@ Icon: file:///Library/PreferenceBundles/tsum.bundle/icon@2x.png
 
 Package: com.lg.mixi
 Architecture: iphoneos-arm
-Version: 1
+Version: 2
 Section: Tweaks
 Maintainer: 41oe
 Installed-Size: 324
 Depends: mobilesubstrate
 Filename: ./debs/mixi.deb
-Size: 130306
-MD5sum: 55f69c9c2816e2975f1a98a2f2c48d81
-SHA1: 002a5c26e75dcd6820194ee5d88f6e0f780a9c35
-SHA256: a0dcb80ec58361da7041bacb02d484d86c427c4ceedaf062185b0ac1450f8835
-SHA512: 09afdd885d1433f631e8a68f093191313df951605fc18f03fc3d0b086a5ef8fde31c70da5d408919a8461d5f2b6c17d43002f54becfbd311cd9e71d67bc0dc5f
+Size: 130312
+MD5sum: 4bcebf2651d63eddf2d74489e3b1794a
+SHA1: 8a7e6a85de5ac03fbe1edc590a96d8c61906d520
+SHA256: a04623d401d5b2bce77e1763bd22dd2f66ca1a8b7020b791729675acd3de4945
+SHA512: 03bddb5fc47203cae79830945f752631b1d387831e297047a2c28c95d35028f384aac3000e0a04890b9f069c117eba2440042dd369af1a879af4f27862f281da
 Homepage:
 Description:
 Name: jp.co.mixi;
