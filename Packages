@@ -1,36 +1,36 @@
 Package: com.lg.tsum
 Architecture: iphoneos-arm
-Version: v1.95.0
+Version: 1950
 Section: Tweaks
 Maintainer: 41oe
 Installed-Size: 308
 Depends: mobilesubstrate
 Filename: ./debs/ios41oett.deb
-Size: 129272
-MD5sum: ebe7b5aaf7c8fb9bf9f972448a825a5e
-SHA1: 246df7b1fff51a1e1be742098eeb080dbdc438ca
-SHA256: 695a30b3b56ac109fb126bd70f4ae4b1386880cb1e3032bbb179cd76ffdeaee6
-SHA512: 074a2a7a3f82852f068b107631e595ebfa781477c8ed100c71cb63939c296c431fecfc123ad73f021d6711bb1eef57b35dd860f6db82d2991b106d09f945c01a
+Size: 129270
+MD5sum: 2d241e7ce610e923046ef1339a42550c
+SHA1: 201a90b24a0dd198c62c582473e825094f1648e0
+SHA256: af95036eb0a8c92a849532f8f3ea72e8e49e7de947d17039d632803c2dba457d
+SHA512: f8e6518ad639c8f6ee3d3b0ed14389cba9ba1e73968de59887f4857c643c0849cced4bd18636d14abdfcb6cc68c817102b382ff683903d55db233310e2ce72ef
 Homepage:
 Description:
-Name: TsumTsum
+Name: com.lg.tmtm;
 Author: 41oe
 Depiction: https://41oe.github.io/x41oe.github.io/
 Icon: file:///Library/PreferenceBundles/tsum.bundle/icon@2x.png
 
 Package: com.lg.mixi
 Architecture: iphoneos-arm
-Version: 2
+Version: 1.x
 Section: Tweaks
 Maintainer: 41oe
 Installed-Size: 324
 Depends: mobilesubstrate
 Filename: ./debs/mixi.deb
-Size: 130312
-MD5sum: 4bcebf2651d63eddf2d74489e3b1794a
-SHA1: 8a7e6a85de5ac03fbe1edc590a96d8c61906d520
-SHA256: a04623d401d5b2bce77e1763bd22dd2f66ca1a8b7020b791729675acd3de4945
-SHA512: 03bddb5fc47203cae79830945f752631b1d387831e297047a2c28c95d35028f384aac3000e0a04890b9f069c117eba2440042dd369af1a879af4f27862f281da
+Size: 130318
+MD5sum: 6d6b0069e803d5643ce680f979359486
+SHA1: 42276f65714027e5240a95064015ff2c394f7ba6
+SHA256: 6318dd963a83ea6207a4a7b1b18bfe490dc2f6a5ac40d3af5dcc55e7c62c099b
+SHA512: c619ff52278551061c62f4dc6a1835df48881d8e37ba4348948b0d9ed256c57a92586f89bd17544b6fd923f3fbeac4008e4895db37aa373a738834fa807e9367
 Homepage:
 Description:
 Name: jp.co.mixi;
@@ -46,14 +46,14 @@ Maintainer: 41oe
 Installed-Size: 324
 Depends: mobilesubstrate
 Filename: ./debs/pad.deb
-Size: 129802
-MD5sum: a6104ec34ea9d80266d446921ddc0abe
-SHA1: c484d54703fbb8f324b6d23867362db25463f8d4
-SHA256: cb4590c1754860f6146512778fb8d6843b20433c60b1ed64fabd29a4c5c67854
-SHA512: da76904d440f29c097aac870d8c5b414ce1039162076a623e48afd1edf4e2038f9ac82af84850504d2f814d3ef3488030956bcd9ffabdd078319bea2ddd5709d
+Size: 129806
+MD5sum: 45c4e6def8502401c0865af8277f0ad8
+SHA1: 43e43af40ea9820d1ce78fa5c12c78bdd4f8c4c5
+SHA256: 8b27db2f9ad5421ee2d652c46b285fec4ee9e12b97e24a4c1271a5fce4ae828d
+SHA512: 64fee35748c6d58ad97209ad013987c38909440b36147acc54b481ee68256fcc48aec299ba3ea7c6ad4adc0e1cdc4e27ff271b40c6172b25da8281cc8f353671
 Homepage:
 Description:
-Name: gunho.pad;
+Name: gungho.pad;
 Author:
 Depiction:
 Icon: file:///Library/PreferenceBundles/pad.bundle/icon@2x.png
