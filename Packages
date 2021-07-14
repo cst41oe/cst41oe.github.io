@@ -1,19 +1,39 @@
 Package: com.lg.tsum
 Architecture: iphoneos-arm
-Version: 1950
+Version: 19
 Section: Tweaks
 Maintainer: 41oe
 Installed-Size: 308
 Depends: mobilesubstrate
-Filename: ./debs/ios41oett.deb
-Size: 129270
-MD5sum: 2d241e7ce610e923046ef1339a42550c
-SHA1: 201a90b24a0dd198c62c582473e825094f1648e0
-SHA256: af95036eb0a8c92a849532f8f3ea72e8e49e7de947d17039d632803c2dba457d
-SHA512: f8e6518ad639c8f6ee3d3b0ed14389cba9ba1e73968de59887f4857c643c0849cced4bd18636d14abdfcb6cc68c817102b382ff683903d55db233310e2ce72ef
+Filename: ./debs/cst41oe.deb
+Size: 129268
+MD5sum: 30dc6c89c98639c0b8a86db84cb2a8f6
+SHA1: edb74018ef90dce218a7700c9f770b98be21f1eb
+SHA256: 743b8c974a5eaa0a424dcb12b059d04e8d4860ed90088e2b1a0394baaf160407
+SHA512: d269bef3c49ad3a7382a55e620ef7e7fe08deb685fc288855d714884b7bcbd628a322a0215053ee6f1232dd442c25da93491942c8722d0ed76b01ce7669811a4
 Homepage:
 Description:
 Name: com.lg.tmtm;
+Author: 41oe
+Depiction: https://41oe.github.io/x41oe.github.io/
+Icon: file:///Library/PreferenceBundles/tsum.bundle/icon@2x.png
+
+Package: com.lg.tsum2
+Architecture: iphoneos-arm
+Version: 19
+Section: Tweaks
+Maintainer: 41oe
+Installed-Size: 308
+Depends: mobilesubstrate
+Filename: ./debs/cst41oeline.deb
+Size: 129414
+MD5sum: 98402ede765801b3c20288d47e13e570
+SHA1: 8dbc1729ad20eb481bf4ea013fa1af4447c97895
+SHA256: 793e87ffa00c2296fa34b8b41750ee77632f5df349bebcff30b1e2fc0ae33137
+SHA512: 026fd7843e5f78dcf96ae1b1fa85baad55f37f4d0d41e9dd78869ceebc961bfc4ab1afe4c3044fbb55fbcb0522d79f9ad2fc31d27d251e5a149e196982818c09
+Homepage:
+Description:
+Name: com.lg.tmtm;line
 Author: 41oe
 Depiction: https://41oe.github.io/x41oe.github.io/
 Icon: file:///Library/PreferenceBundles/tsum.bundle/icon@2x.png
